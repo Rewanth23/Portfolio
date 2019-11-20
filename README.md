@@ -8,11 +8,6 @@ Hell yeah! It's Rewanth.
 #### Link
  [Data science projects](projects)
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Rewanth23/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
