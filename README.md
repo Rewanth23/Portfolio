@@ -1,7 +1,12 @@
 ---
 title: Whats'up Homie!!
 ---
+# Data science journey
 
+hell yeah! It's Rewanth.
+
+#### Link
+ [Data science projects](projects)
 
 ## Welcome to GitHub Pages
 
