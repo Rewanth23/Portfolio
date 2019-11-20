@@ -1,6 +1,4 @@
----
-title: Whats'up Homie!!
----
+
 # Data science journey
 
 Hell yeah! It's Rewanth.
